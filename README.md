@@ -1,1 +1,3 @@
-# Simple calculator
+# Simple counter
+
+![screenshot](./screenshot.png)
